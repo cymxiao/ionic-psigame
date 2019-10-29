@@ -15,3 +15,7 @@ Ionic 4 gives superior performance over previous versions as it is based on Angu
 
 [Phaser examples]: <https://phaser.io/examples>
 [How to create Mobile games & PWA with Ionic 4 and Phaser]:<https://medium.com/enappd/how-to-create-mobile-games-pwa-with-ionic4-and-phaser-7fb1e917678e>
+
+# How to run ?
+1. run: npm i;
+2. run: ionic serve -c
